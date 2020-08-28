@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emil.gustafsson7\\Documents\\GitHub\\programmering\\HelloWorld\\HelloWorld.csproj",
-      "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\emil.gustafsson7\\Documents\\GitHub\\programmering\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\emil.gustafsson7\\Documents\\GitHub\\programmering\\HelloWorld\\HelloNiklas.csproj",
+      "projectName": "HelloNiklas",
+      "projectPath": "C:\\Users\\emil.gustafsson7\\Documents\\GitHub\\programmering\\HelloWorld\\HelloNiklas.csproj",
       "packagesPath": "C:\\Users\\emil.gustafsson7\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\emil.gustafsson7\\Documents\\GitHub\\programmering\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
