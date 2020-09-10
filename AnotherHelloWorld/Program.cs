@@ -7,7 +7,7 @@ namespace AnotherHelloWorld
         static void Main(string[] args)
         {
 
-            string[] namn = { "Emil", "Niklas", "Karl", "Niklas", "Malte" };
+            string[] namn = { "Emil", "Niklas", "Linnn", "Niklas", "Malte" };
 
             Array.Reverse(namn);
             for (int i = 0; i < namn.Length; i++)
