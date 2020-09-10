@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace looooopar
 {
@@ -69,6 +70,20 @@ namespace looooopar
                         break;
                 }
 
+                Console.WriteLine("Vill du ha en till dricka");
+                
+
+
+                do
+                {
+                    Console.WriteLine("ja eller nej");
+                    String igen = Console.ReadLine();
+
+                    if (igen == "nej")
+                    {
+                        hej = false;
+                    }
+                } while (hej == false);
             }
         }
     }

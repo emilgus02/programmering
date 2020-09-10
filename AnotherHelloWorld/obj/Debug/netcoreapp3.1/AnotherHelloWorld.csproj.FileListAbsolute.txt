@@ -1,0 +1,13 @@
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\AnotherHelloWorld\bin\Debug\netcoreapp3.1\AnotherHelloWorld.exe
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\AnotherHelloWorld\bin\Debug\netcoreapp3.1\AnotherHelloWorld.deps.json
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\AnotherHelloWorld\bin\Debug\netcoreapp3.1\AnotherHelloWorld.runtimeconfig.json
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\AnotherHelloWorld\bin\Debug\netcoreapp3.1\AnotherHelloWorld.runtimeconfig.dev.json
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\AnotherHelloWorld\bin\Debug\netcoreapp3.1\AnotherHelloWorld.dll
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\AnotherHelloWorld\bin\Debug\netcoreapp3.1\AnotherHelloWorld.pdb
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\AnotherHelloWorld\obj\Debug\netcoreapp3.1\AnotherHelloWorld.csprojAssemblyReference.cache
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\AnotherHelloWorld\obj\Debug\netcoreapp3.1\AnotherHelloWorld.AssemblyInfoInputs.cache
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\AnotherHelloWorld\obj\Debug\netcoreapp3.1\AnotherHelloWorld.AssemblyInfo.cs
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\AnotherHelloWorld\obj\Debug\netcoreapp3.1\AnotherHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\AnotherHelloWorld\obj\Debug\netcoreapp3.1\AnotherHelloWorld.dll
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\AnotherHelloWorld\obj\Debug\netcoreapp3.1\AnotherHelloWorld.pdb
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\AnotherHelloWorld\obj\Debug\netcoreapp3.1\AnotherHelloWorld.genruntimeconfig.cache

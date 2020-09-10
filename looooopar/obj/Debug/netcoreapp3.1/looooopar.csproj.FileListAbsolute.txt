@@ -1,0 +1,13 @@
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\looooopar\bin\Debug\netcoreapp3.1\looooopar.exe
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\looooopar\bin\Debug\netcoreapp3.1\looooopar.deps.json
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\looooopar\bin\Debug\netcoreapp3.1\looooopar.runtimeconfig.json
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\looooopar\bin\Debug\netcoreapp3.1\looooopar.runtimeconfig.dev.json
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\looooopar\bin\Debug\netcoreapp3.1\looooopar.dll
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\looooopar\bin\Debug\netcoreapp3.1\looooopar.pdb
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\looooopar\obj\Debug\netcoreapp3.1\looooopar.csprojAssemblyReference.cache
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\looooopar\obj\Debug\netcoreapp3.1\looooopar.AssemblyInfoInputs.cache
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\looooopar\obj\Debug\netcoreapp3.1\looooopar.AssemblyInfo.cs
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\looooopar\obj\Debug\netcoreapp3.1\looooopar.csproj.CoreCompileInputs.cache
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\looooopar\obj\Debug\netcoreapp3.1\looooopar.dll
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\looooopar\obj\Debug\netcoreapp3.1\looooopar.pdb
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\looooopar\obj\Debug\netcoreapp3.1\looooopar.genruntimeconfig.cache
