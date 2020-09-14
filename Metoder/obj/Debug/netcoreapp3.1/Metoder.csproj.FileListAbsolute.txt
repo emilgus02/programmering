@@ -1,0 +1,13 @@
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Metoder\bin\Debug\netcoreapp3.1\Metoder.exe
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Metoder\bin\Debug\netcoreapp3.1\Metoder.deps.json
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Metoder\bin\Debug\netcoreapp3.1\Metoder.runtimeconfig.json
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Metoder\bin\Debug\netcoreapp3.1\Metoder.runtimeconfig.dev.json
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Metoder\bin\Debug\netcoreapp3.1\Metoder.dll
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Metoder\bin\Debug\netcoreapp3.1\Metoder.pdb
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Metoder\obj\Debug\netcoreapp3.1\Metoder.csprojAssemblyReference.cache
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Metoder\obj\Debug\netcoreapp3.1\Metoder.AssemblyInfoInputs.cache
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Metoder\obj\Debug\netcoreapp3.1\Metoder.AssemblyInfo.cs
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Metoder\obj\Debug\netcoreapp3.1\Metoder.csproj.CoreCompileInputs.cache
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Metoder\obj\Debug\netcoreapp3.1\Metoder.dll
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Metoder\obj\Debug\netcoreapp3.1\Metoder.pdb
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Metoder\obj\Debug\netcoreapp3.1\Metoder.genruntimeconfig.cache

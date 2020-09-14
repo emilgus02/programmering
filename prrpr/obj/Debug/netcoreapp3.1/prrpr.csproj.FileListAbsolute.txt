@@ -1,0 +1,13 @@
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\prrpr\bin\Debug\netcoreapp3.1\prrpr.exe
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\prrpr\bin\Debug\netcoreapp3.1\prrpr.deps.json
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\prrpr\bin\Debug\netcoreapp3.1\prrpr.runtimeconfig.json
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\prrpr\bin\Debug\netcoreapp3.1\prrpr.runtimeconfig.dev.json
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\prrpr\bin\Debug\netcoreapp3.1\prrpr.dll
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\prrpr\bin\Debug\netcoreapp3.1\prrpr.pdb
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\prrpr\obj\Debug\netcoreapp3.1\prrpr.csprojAssemblyReference.cache
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\prrpr\obj\Debug\netcoreapp3.1\prrpr.AssemblyInfoInputs.cache
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\prrpr\obj\Debug\netcoreapp3.1\prrpr.AssemblyInfo.cs
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\prrpr\obj\Debug\netcoreapp3.1\prrpr.csproj.CoreCompileInputs.cache
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\prrpr\obj\Debug\netcoreapp3.1\prrpr.dll
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\prrpr\obj\Debug\netcoreapp3.1\prrpr.pdb
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\prrpr\obj\Debug\netcoreapp3.1\prrpr.genruntimeconfig.cache
