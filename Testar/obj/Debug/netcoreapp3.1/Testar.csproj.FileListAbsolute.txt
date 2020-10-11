@@ -1,0 +1,13 @@
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Testar\obj\Debug\netcoreapp3.1\Testar.AssemblyInfoInputs.cache
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Testar\obj\Debug\netcoreapp3.1\Testar.AssemblyInfo.cs
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Testar\obj\Debug\netcoreapp3.1\Testar.csproj.CoreCompileInputs.cache
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Testar\bin\Debug\netcoreapp3.1\Testar.exe
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Testar\bin\Debug\netcoreapp3.1\Testar.deps.json
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Testar\bin\Debug\netcoreapp3.1\Testar.runtimeconfig.json
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Testar\bin\Debug\netcoreapp3.1\Testar.runtimeconfig.dev.json
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Testar\bin\Debug\netcoreapp3.1\Testar.dll
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Testar\bin\Debug\netcoreapp3.1\Testar.pdb
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Testar\obj\Debug\netcoreapp3.1\Testar.dll
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Testar\obj\Debug\netcoreapp3.1\Testar.pdb
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Testar\obj\Debug\netcoreapp3.1\Testar.genruntimeconfig.cache
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Testar\obj\Debug\netcoreapp3.1\Testar.csprojAssemblyReference.cache

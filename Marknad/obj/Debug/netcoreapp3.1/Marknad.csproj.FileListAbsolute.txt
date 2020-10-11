@@ -1,0 +1,13 @@
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Marknad\bin\Debug\netcoreapp3.1\Marknad.exe
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Marknad\bin\Debug\netcoreapp3.1\Marknad.deps.json
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Marknad\bin\Debug\netcoreapp3.1\Marknad.runtimeconfig.json
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Marknad\bin\Debug\netcoreapp3.1\Marknad.runtimeconfig.dev.json
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Marknad\bin\Debug\netcoreapp3.1\Marknad.dll
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Marknad\bin\Debug\netcoreapp3.1\Marknad.pdb
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Marknad\obj\Debug\netcoreapp3.1\Marknad.csprojAssemblyReference.cache
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Marknad\obj\Debug\netcoreapp3.1\Marknad.AssemblyInfoInputs.cache
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Marknad\obj\Debug\netcoreapp3.1\Marknad.AssemblyInfo.cs
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Marknad\obj\Debug\netcoreapp3.1\Marknad.csproj.CoreCompileInputs.cache
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Marknad\obj\Debug\netcoreapp3.1\Marknad.dll
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Marknad\obj\Debug\netcoreapp3.1\Marknad.pdb
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\Marknad\obj\Debug\netcoreapp3.1\Marknad.genruntimeconfig.cache

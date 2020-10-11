@@ -1,0 +1,13 @@
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\OOPintro\bin\Debug\netcoreapp3.1\OOPintro.exe
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\OOPintro\bin\Debug\netcoreapp3.1\OOPintro.deps.json
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\OOPintro\bin\Debug\netcoreapp3.1\OOPintro.runtimeconfig.json
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\OOPintro\bin\Debug\netcoreapp3.1\OOPintro.runtimeconfig.dev.json
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\OOPintro\bin\Debug\netcoreapp3.1\OOPintro.dll
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\OOPintro\bin\Debug\netcoreapp3.1\OOPintro.pdb
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\OOPintro\obj\Debug\netcoreapp3.1\OOPintro.csprojAssemblyReference.cache
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\OOPintro\obj\Debug\netcoreapp3.1\OOPintro.AssemblyInfoInputs.cache
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\OOPintro\obj\Debug\netcoreapp3.1\OOPintro.AssemblyInfo.cs
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\OOPintro\obj\Debug\netcoreapp3.1\OOPintro.csproj.CoreCompileInputs.cache
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\OOPintro\obj\Debug\netcoreapp3.1\OOPintro.dll
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\OOPintro\obj\Debug\netcoreapp3.1\OOPintro.pdb
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\OOPintro\obj\Debug\netcoreapp3.1\OOPintro.genruntimeconfig.cache
