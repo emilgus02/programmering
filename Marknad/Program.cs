@@ -55,8 +55,9 @@ namespace Marknad
 
         }
 
-        private static void newc()
+        private static int newc()
         {
+            int newCN = 0;
             Console.WriteLine("Vad heter du?");
 
             string namn = Console.ReadLine(); // personen väljer sitt namn
@@ -69,6 +70,9 @@ namespace Marknad
 
             Console.WriteLine("Du har nu gjort ett konto");
             Console.WriteLine();
+            newCN = newCN + 1;
+
+            return newCN;
         }
 
         static void Loggain()
@@ -318,6 +322,13 @@ namespace Marknad
                 Console.WriteLine(_cart[i]);
             }
             Console.WriteLine("Kostnaden är " +  pay +  " det kommer att vara leverat till dig inom 3 dagar"); // visar summan man ska betala
+            for (int i = 0; i < length; i++)
+            {
+
+                    _cart[i] = "";
+                    i = _max[nummer];
+
+            }
 
         }
 
