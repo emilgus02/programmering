@@ -1,0 +1,13 @@
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\OBP\OBP\bin\Debug\netcoreapp3.1\OBP.exe
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\OBP\OBP\bin\Debug\netcoreapp3.1\OBP.deps.json
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\OBP\OBP\bin\Debug\netcoreapp3.1\OBP.runtimeconfig.json
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\OBP\OBP\bin\Debug\netcoreapp3.1\OBP.runtimeconfig.dev.json
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\OBP\OBP\bin\Debug\netcoreapp3.1\OBP.dll
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\OBP\OBP\bin\Debug\netcoreapp3.1\OBP.pdb
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\OBP\OBP\obj\Debug\netcoreapp3.1\OBP.csprojAssemblyReference.cache
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\OBP\OBP\obj\Debug\netcoreapp3.1\OBP.AssemblyInfoInputs.cache
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\OBP\OBP\obj\Debug\netcoreapp3.1\OBP.AssemblyInfo.cs
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\OBP\OBP\obj\Debug\netcoreapp3.1\OBP.csproj.CoreCompileInputs.cache
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\OBP\OBP\obj\Debug\netcoreapp3.1\OBP.dll
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\OBP\OBP\obj\Debug\netcoreapp3.1\OBP.pdb
+C:\Users\emil.gustafsson7\Documents\GitHub\programmering\OBP\OBP\obj\Debug\netcoreapp3.1\OBP.genruntimeconfig.cache
