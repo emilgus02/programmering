@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace OBP
 {
@@ -6,6 +7,7 @@ namespace OBP
     {
         static void Main(string[] args)
         {
+
             Channel channel = new Channel();
             Random rnd = new Random();
 
@@ -18,9 +20,25 @@ namespace OBP
             Console.WriteLine("(3) Logan Paul");
             Console.WriteLine("(4) None");
 
-            string channelName = Console.ReadLine();
+            int channelName = Convert.ToInt32(Console.ReadLine());
 
-            channel.Inventory = rnd.Next(2);
+            if (channelName == 1)
+            {
+                Subscriber Ninja = new Subscriber("Ninja");
+                channel.Subscribe(Ninja);
+            }
+            else if (channelName == 2)
+            {
+                Subscriber Kim = new Subscriber("Kim Kardashian");
+                channel.Subscribe(Kim);
+            }
+            else if (channelName == 3)
+            {
+                Subscriber Logan = new Subscriber("Ligan Paul");
+                channel.Subscribe(Logan);
+            }
+
+            channel.Inventory = rnd.Next(0, 2);
         }
     }
 }

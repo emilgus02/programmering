@@ -21,6 +21,10 @@ namespace OBP
                 {
                     Notify();
                 }
+                else
+                {
+                    Console.WriteLine("There is no new video");
+                }
                 _int = value;
             }
         }
@@ -28,11 +32,6 @@ namespace OBP
             public void Subscribe(Subscriber subscriber)
         {
             subscribers.Add(subscriber);
-        }
-
-        public void Unsubscribe(Subscriber subscriber)
-        {
-            subscribers.Remove(subscriber);
         }
 
         public void Notify()
